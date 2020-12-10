@@ -6,4 +6,4 @@ I'm Jose Juarez! :D
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josejuarezjunior/)](https://www.linkedin.com/in/josejuarezsouzajunior/)
 
 ### About me
-I'm a developer student that are learning C# .Net, Javascript, HTML5 and CSS3.
+I'm a student that are learning C# .Net, Javascript, HTML5 and CSS3.

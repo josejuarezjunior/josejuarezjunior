@@ -11,6 +11,15 @@ I'm a development student who is learning C# .Net, Javascript, HTML5 and CSS3.
 ### I'm learning:
 
 <img align="left" alt="C#" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/csharp.png" />
+<img align="left" alt="Visual Studio" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio-code.png" />
+<img align="left" alt="Git" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/git.png" />
+<img align="left" alt="Git Hub" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/github.png" />
+<img align="left" alt="Javascript" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/javascript.png" />
+<img align="left" alt="CSS" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/css.png" />
+<img align="left" alt="HTML" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/html.png" />
+<img align="left" alt="SQL Server" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/sqlserver.png" />
+<img align="left" alt="SQL" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/sql.png" />
 
 <br />
 <br />

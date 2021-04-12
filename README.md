@@ -8,7 +8,7 @@ I'm a development student Associate Degree in Analysis and Systems Development.
 ### I'm learnig/using languages and tools below:
 <br />
 <img align="left" alt="C#" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/csharp2.svg" />
-<img align="left" alt="Visual Studio" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio.png" />
+<img align="left" alt="Visual Studio" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio-code.png" />
 <img align="left" alt="Git" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/git.png" />
 <img align="left" alt="Git Hub" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/github.png" />

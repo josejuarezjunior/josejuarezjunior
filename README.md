@@ -15,7 +15,7 @@ I'm a development student Associate Degree in Analysis and Systems Development.
 <img align="left" alt="Javascript" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/javascript.png" />
 <img align="left" alt="CSS" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/css.png" />
 <img align="left" alt="HTML" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/html.png" />
-<img align="left" alt="SQL Server" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/sqlserver.png" />
+<img align="left" alt="SQL Server" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/sql-server.svg" />
 <img align="left" alt="SQL" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/sql.png" />
 
 <br />

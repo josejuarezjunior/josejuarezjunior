@@ -3,7 +3,7 @@
 I'm Jose Juarez!
 
 ### About me
-I'm a development student Associate Degree in Analysis and Systems Development. 
+I'm a System Analyst and Associate Degree in Analysis and Systems Development. 
 <br />
 ### I'm learnig/using languages and tools below:
 

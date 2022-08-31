@@ -3,9 +3,9 @@
 I'm Jose Juarez!
 
 ### About me
-I'm a System Analyst Jr and Associate Degree in Analysis and Systems Development. 
+I'm a System Analyst Jr. 
 <br />
-### I'm learnig/using languages and tools below:
+### I'm learnig and working with languages and tools below:
 
 <img align="left" alt="C#" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/csharp2.svg" />
 <img align="left" alt="Visual Studio" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio.svg" />

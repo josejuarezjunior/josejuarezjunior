@@ -1,10 +1,8 @@
 ### Hi there!
 
-I'm Jose Juarez!
-
 ### About me
 I'm a System Developer Jr.
-I've been studying system development for two years and I've been working on it for a year.
+I've been studying system development since 2020 and I'm a lucky man to work on it since 2021.
 I know I have a lot to learning and discover, but the passion for tecnology head me up.
 <br />
 ### I'm working with languages and tools below:

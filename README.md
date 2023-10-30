@@ -28,6 +28,7 @@ I know I have a lot to learning and discover, but the passion for tecnology head
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josejuarezjunior)](https://github.com/josejuarezjunior)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josejuarezjunior/)](https://www.linkedin.com/in/josejuarezsouzajunior/)
+[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/juarez_junior_1)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=josejuarezjunior)
 

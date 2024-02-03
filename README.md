@@ -3,8 +3,8 @@
 ### About me
 I'm a System Developer Jr.
 I've been studying system development since 2020 and work on it since 2021.
-Nowadays I've been developing with C# and SQL Server. Last months I've been studyng stack MERN.
-I know I have a lot to learning and discover, but the passion for tecnology head me up.
+Nowadays I've been developing with .NET C# and SQL Server.
+I'm studyng Angular and TypeScript and always still improving my knowledge in .NET C# and SQL Server.
 <br />
 ### I'm working with languages and tools below:
 

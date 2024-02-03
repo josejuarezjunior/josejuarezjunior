@@ -9,6 +9,8 @@ I'm studyng Angular and TypeScript and always still improving my knowledge in .N
 ### I'm working with languages and tools below:
 
 <img align="left" alt="C#" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/csharp2.svg" />
+<img align="left" alt="Angular" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/angular.png" />
+<img align="left" alt="TypeScript" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/typescript.png" />
 <img align="left" alt="Visual Studio" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/dotnet.svg" />
 <img align="left" alt="C#" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio-code.svg" />
@@ -22,13 +24,6 @@ I'm studyng Angular and TypeScript and always still improving my knowledge in .N
 
 <br />
 <br />
-
-### You can find me at:
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josejuarezjunior)](https://github.com/josejuarezjunior)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josejuarezjunior/)](https://www.linkedin.com/in/josejuarezsouzajunior/)
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/juarez_junior_1)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=josejuarezjunior)
 

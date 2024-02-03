@@ -9,7 +9,7 @@ I'm studyng Angular and TypeScript and always still improving my knowledge in .N
 ### I'm working with languages and tools below:
 
 <img align="left" alt="C#" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/csharp2.svg" />
-<img align="left" alt="Angular" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/angular.png" />
+<img align="left" alt="Angular" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/angular1.png" />
 <img align="left" alt="TypeScript" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/typescript.png" />
 <img align="left" alt="Visual Studio" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/visual-studio.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/josejuarezjunior/josejuarezjunior/blob/main/logos/dotnet.svg" />
